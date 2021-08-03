@@ -1,4 +1,4 @@
-#AM Synchronous Demodulation
+# AM Synchronous Demodulation
 ## Required Hardware
 - **Nooelec NESDR SMArt**: The [receiver](https://www.amazon.com/gp/product/B01GDN1T4S/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) tuned by ther user using **fc** parameter brings the signal 
 centered at fc with a bandwidth of 2.4 MHz down to baseband.
