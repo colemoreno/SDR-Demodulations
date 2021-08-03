@@ -1,4 +1,4 @@
-## SDR Demodulations
+## Software Defined Radio (SDR) Demodulations
 ## Overview
 - **Purpose**: The aim of this project is to provide different demodulation schemes for both AM and FM that use the RTL-SDR implemented in MATLAB.
 - **Structure**: Within the directory there are different demodulation schemes. Each subdirectory will have its own README file and MATLAB code.
